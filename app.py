@@ -1,8 +1,6 @@
-from numpy import right_shift
 import streamlit as st
 import time
 from streamlit.elements.button import ButtonMixin
-from sympy import ceiling
 
 st.title(":green[A.Z.B] :red[Serveys]")
 
