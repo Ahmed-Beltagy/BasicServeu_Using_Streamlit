@@ -8,7 +8,7 @@ st.latex("Please Answer the following Questions")
 
 st.write("First of all, Play the music to relieve your stress")
 
-st.audio("/content/Relax-cut2.mp3")
+st.audio("content/Relax-cut2.mp3")
 
 st.latex("General Info")
 
